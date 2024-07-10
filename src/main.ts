@@ -2,7 +2,7 @@ import { createApp } from 'vue'
 import './style.scss'
 import App from './App.vue'
 import Vueform from '@vueform/vueform'
-import vueformConfig from './../vueform.config'
+import vueformConfig from './vueform.config'
 import { createPinia } from 'pinia'
 import piniaPluginPersistedstate from 'pinia-plugin-persistedstate';
 
